@@ -1,8 +1,6 @@
-# Interactive Introduction
+# Mixed_Messages Project
 
 This is a simple interactive introduction script written in JavaScript using Node.js. It prompts the user for their name and location, then engages in a conversation based on their responses.
-
-## Getting Started
 
 ### Prerequisites
 
@@ -10,10 +8,10 @@ This is a simple interactive introduction script written in JavaScript using Nod
 
 ### Installation
 
-1. Clone the repository to your local machine:
+1. Clone the repository to your local machine.
 
 
-2. Navigate to the project directory:
+2. Navigate to the project directory.
 
 
 3. Install dependencies using npm: npm install prompt-sync
@@ -21,7 +19,7 @@ This is a simple interactive introduction script written in JavaScript using Nod
 
 ## Usage
 
-1. Run the script:
+1. Run the script from a terminal opened to the project directory: node mixex-messages.js
 
 2. Follow the prompts to enter your name and location.
 
@@ -34,6 +32,7 @@ This is a simple interactive introduction script written in JavaScript using Nod
 
 ## Example
 
+```
 $ node mixed-messages.js
 
 What is your name? : > Alice
@@ -48,6 +47,7 @@ I've never heard of Wonderland. How is it like over there? Tell me about your ho
 
 Wonderland, looks like a beautiful place to visit based on your answer: It's a magical place with talking animals and peculiar characters.
 I can't wait to visit there and do what the locals do!
+```
 
 ## Contributors
 
